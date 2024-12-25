@@ -63,30 +63,28 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot (251)](https://github.com/Priyanghaofficial/study-of-basic-gates/assets/147121154/f6fb87e8-7768-4914-9fff-b16d457d575f)
+
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: saran . R
+ Developed by:saran . R
  RegisterNumber: 212224050042
-
- **code**
  
-![Screenshot 2024-03-13 121321](https://github.com/RahulKrishna05/study-of-basic-gates/assets/162027231/c1dd4a1a-724e-4061-994e-bd1a43618fe9)
-
-
 **Logic symbol & Truthtable**
-
-![Screenshot 2024-03-13 121337](https://github.com/RahulKrishna05/study-of-basic-gates/assets/162027231/47a764bc-fb9f-4915-9bf6-fb3f2ed4b857)
-
-**RTL realization Output:** 
-
-**RTL**
-![Screenshot 2024-03-13 121351](https://github.com/RahulKrishna05/study-of-basic-gates/assets/162027231/07b44915-f120-4ca2-89ab-d7d0bb7d133e)
+![digi - Copy](https://github.com/Priyanghaofficial/study-of-basic-gates/assets/147121154/e0d85b23-2b63-405f-9452-3abf17197967)
 
 
-![Screenshot 2024-03-13 121403](https://github.com/RahulKrishna05/study-of-basic-gates/assets/162027231/71ff82d1-3582-463b-9013-9d755420a8e6)
+**RTL realization**
+![Screenshot (252)](https://github.com/Priyanghaofficial/study-of-basic-gates/assets/147121154/15c5c300-acb1-4984-9be0-462a28a45c21)
+
+**Output:** 
+
+![Screenshot (250)](https://github.com/Priyanghaofficial/study-of-basic-gates/assets/147121154/8d24f328-d398-4586-ac98-f722795c8a69)
+
 
 **Result:**
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
